@@ -1,34 +1,34 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About me
 image:
   feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2014-12-24
+modified: 2015-01-18
 ---
+#Introduction
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+Hi there, my nickname is Gnufabio. I'm a 20-years-old Italian developer. I'm currently attending Automation Engineering at [Politecnico di Milano](http://www.polimi.it).
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+#My Informatic experience
+I've started to play with my computers at the age of 12. At that time, I was using a Pentium III desktop powered by Windows XP. 
+Then, I bought an Acer Aspire 5920G, on which I suddently installed Ubuntu alongside Windows 7.
 
-## What HPSTR brings to the table:
+At the moment, I own an HP Sleekbook 15-b045el, but I plan to assembly my own desktop computer. But I will talk about that in the next posts.
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+I've started to program at the age of 13, with Python. However, I've never really programmed in Python, since I've studied Java, which i currently use to create Android Applications.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+Actually, I love C. It's powerful, elegrant and fast. I'd like to study it at a lower level. 
 
-[^1]: Example: *domain.com/category-name/post-title*
+## My projects
+* [Costituzione Italiana 4.0](https://github.com/gnufabio/costituzione-italiana-4.0)
+* [Patched qtcurve](https://github.com/gnufabio/qtcurve) (removed shadows) and [ElegantBreeze KDE4 theme](https://github.com/gnufabio/elegant_breeze)
+* [Secure Portfolio](https://mega.co.nz/#F!ccNyFa7L!FyKhSV3LPCOOcj8GT746nQ) (never published on Google Play)
+* [SIMEditor](https://bitbucket.org/gnufabio/com_gnufabio_simeditor)
+* [Manhattan OTA](https://bitbucket.org/gnufabio/com_gnufabio_manhattan_ota) and [Manhattan Settings](https://bitbucket.org/gnufabio/com_gnufabio_manhattan_settings)
+* [Revolver ROM](http://forum.xda-developers.com/showthread.php?t=1518768)
+* [Some C exercises](https://github.com/gnufabio/polimi_it_C_ex)
+* [Cyanogenmod for Acer Liquid A1](http://www.modaco.com/topic/341085-rom-cyanogenmod-611-v3-final-full-hw/) and some other android-related projects (Acer Liquid, Galaxy Nexus and ASUS Transformer)
+* I've also contributed with some commits to Telegram android app.
+
+And a lot more stuff. To find it, give a look to my Github, Bitbucket, XDA and Modaco profiles.
