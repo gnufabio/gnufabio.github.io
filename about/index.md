@@ -4,7 +4,7 @@ title: About me
 image:
   feature: abstract-5.jpg
 comments: false
-modified: 2015-01-18
+modified: 2015-01-19
 ---
 #Introduction
 
@@ -26,7 +26,7 @@ Actually, I love C. It's powerful, elegrant and fast. I'd like to study it at a 
 * [Secure Portfolio](https://mega.co.nz/#F!ccNyFa7L!FyKhSV3LPCOOcj8GT746nQ) (never published on Google Play)
 * [SIMEditor](https://bitbucket.org/gnufabio/com_gnufabio_simeditor)
 * [Manhattan OTA](https://bitbucket.org/gnufabio/com_gnufabio_manhattan_ota) and [Manhattan Settings](https://bitbucket.org/gnufabio/com_gnufabio_manhattan_settings)
-* [Revolver ROM](http://forum.xda-developers.com/showthread.php?t=1518768)
+* [Revolver ROM](http://forum.xda-developers.com/showthread.php?t=1518768) and [Revolver Parts](https://bitbucket.org/gnufabio/revolver-parts)
 * [Some C exercises](https://github.com/gnufabio/polimi_it_C_ex)
 * [Cyanogenmod for Acer Liquid A1](http://www.modaco.com/topic/341085-rom-cyanogenmod-611-v3-final-full-hw/) and some other android-related projects (Acer Liquid, Galaxy Nexus and ASUS Transformer)
 * I've also contributed with some commits to Telegram android app.
