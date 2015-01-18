@@ -7,7 +7,7 @@
 			<ul class="dl-submenu">
 				<li>
 					<img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
-					<h4>{{ site.owner.name }}</h4>
+					<!--<h4>{{ site.owner.name }}</h4>-->
 					<p>{{ site.owner.bio }}</p>
 				</li>
 				<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse btn-about">Learn More</span></a></li>
@@ -28,6 +28,9 @@
 				</li>{% endif %}
 				{% if site.owner.github %}<li>
 					<a href="http://github.com/{{ site.owner.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a>
+				</li>{% endif %}
+				{% if site.owner.bitbucket %}<li>
+					<a href="http://bitbucket.com/{{ site.owner.bitbucket }}"><i class="fa fa-fw fa-bitbucket"></i> Bitbucket</a>
 				</li>{% endif %}
 				{% if site.owner.stackexchange %}<li>
 					<a href="{{ site.owner.stackexchange }}"><i class="fa fa-fw fa-stack-exchange"></i> Stackexchange</a>
